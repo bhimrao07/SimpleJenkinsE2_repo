@@ -8,7 +8,7 @@ public class JenkinsTest {
 	@Test
 	public void sample()
 	{
-		Reporter.log("Test class Executed",true);
+		Reporter.log("Jenkins Test class Executed, Good to see",true);
 	}
 
 }
